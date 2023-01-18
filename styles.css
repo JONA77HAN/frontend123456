@@ -1,0 +1,15 @@
+header {
+   width: 100%;
+   height: 400px;
+   background-color: rgb(82, 47, 116);
+   background: url(/imagenes/banner4.jpg);
+   background-size: cover;
+}
+
+
+.lafoto {
+    color: aliceblue;
+    border-radius: 200px;
+    position: fixed;
+    
+}
